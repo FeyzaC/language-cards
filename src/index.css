@@ -5,11 +5,13 @@
 }
 
 body {
-  background-color: #f4d467;
+  background-color: #db63ee;
+  font-family: "Dancing Script", cursive;
+  font-family: "Playfair Display", serif;
 }
 
 .lang-card:hover {
-  box-shadow: 3px 3px 20px 5px orangered;
+  box-shadow: 3px 3px 20px 5px rgb(209, 55, 80);
 }
 
 .lang-logo {
